@@ -1,0 +1,29 @@
+
+‹
+java:S1319D"iThe type of "newsItems" should be an interface such as "List" rather than the implementation "ArrayList".(Ó‘½Ùúÿÿÿÿ8ùéÃ1
+R
+java:S1874"0Remove this use of "Fragment"; it is deprecated.(¾Äå¸ûÿÿÿÿ8‡Î¿Ã1
+Y
+java:S1874"7Remove this use of "FragmentManager"; it is deprecated.(£–ˆˆÿÿÿÿÿ8‡Î¿Ã1
+g
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(«ÃÀ÷8‡Î¿Ã1
+U
+java:S1874"3Remove this use of "getActivity"; it is deprecated.(¡ûŞÁøÿÿÿÿ8‰Î¿Ã1
+P
+java:S1874%"3Remove this use of "getActivity"; it is deprecated.( ô•À8‰Î¿Ã1
+U
+java:S1874("3Remove this use of "getActivity"; it is deprecated.(Ï¬«Øıÿÿÿÿ8ŠÎ¿Ã1
+X
+java:S1874.";Remove this use of "FragmentTransaction"; it is deprecated.(›†Ù‡8‹Î¿Ã1
+U
+java:S1874."8Remove this use of "beginTransaction"; it is deprecated.(›†Ù‡8‹Î¿Ã1
+V
+java:S18742"4Remove this use of "setArguments"; it is deprecated.(ÉÎÓ·şÿÿÿÿ8şßß¬Ã1
+P
+java:S18743"3Remove this use of "getActivity"; it is deprecated.(§ÈĞÓ8ŒÎ¿Ã1
+Q
+java:S18745"/Remove this use of "replace"; it is deprecated.(«ì¢ˆşÿÿÿÿ8ŒÎ¿Ã1
+K
+java:S18746".Remove this use of "commit"; it is deprecated.(·¡ëÅ8ŒÎ¿Ã1
+T
+java:S1874@"7Remove this use of "FragmentManager"; it is deprecated.(Ë¡¦‰8Î¿Ã1

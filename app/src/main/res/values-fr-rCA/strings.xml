@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur de nouvelles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_drawer">Activité du tiroir</string>
+    <string name="nav_header_title">Lecteur de nouvelles</string>
+    <string name="nav_header_subtitle">android.nouvelles</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="menu_home">Maison</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Diaporama</string>
+    <string name="button1">FLUX RSS de la BBC</string>
+    <string name="button2">FLUX RSS de Radio-Canada</string>
+    <string name="button3">Mon préféré</string>
+    <string name="button4">Ajouter aux favoris</string>
+    <string name="txt_title">Liste des nouvelles</string>
+    <string name="news_item_title">Liste des nouvelles</string>
+</resources>

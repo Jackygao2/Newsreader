@@ -1,0 +1,30 @@
+
+e	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æŸÿ
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œæ‡¤8ªÌïÂ1
+f	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…òæµ
+j
+java:S3008"TRename this field "TAG_TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÓ·
+i
+java:S3008 "SRename this field "TAG_LINK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÀÑ‡
+r
+java:S3008!"WRename this field "TAG_PUB_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öä¶£ıÿÿÿÿ
+J
+java:S1874"4Remove this use of "ListActivity"; it is deprecated.(³Œ•Ğ
+D
+java:S1874)"/Remove this use of "execute"; it is deprecated.(´Ñ²~
+N
+java:S1874*"3Remove this use of "getListView"; it is deprecated.(Ùà°áúÿÿÿÿ
+G
+java:S18745"1Remove this use of "AsyncTask"; it is deprecated.(ÎÑçÙ
+g
+java:S18748"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ8Ô´ÒïÂ1
+P
+java:S18749"4Remove this use of "onPreExecute"; it is deprecated.(”•P8Õ´ÒïÂ1
+m
+java:S3252="PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(ò“8×´ÒïÂ1
+m
+java:S3252>"PUse static access with "android.view.ViewGroup$LayoutParams" for "WRAP_CONTENT".(›àšÛ8ıÖïÂ1
+X
+java:S1874s"6Remove this use of "setListAdapter"; it is deprecated.(£ö˜ªøÿÿÿÿ8‡‡ïÂ1
+e
+java:S1874y"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÛÔõõùÿÿÿÿ

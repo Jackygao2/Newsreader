@@ -1,0 +1,21 @@
+
+Y
+java:S1874"7Remove this use of "FragmentManager"; it is deprecated.(¼¤ÇÀüÿÿÿÿ8Æ’îÃ1
+W
+java:S1874":Remove this use of "getFragmentManager"; it is deprecated.(ˆÛ­ó8È’îÃ1
+X
+java:S1874+";Remove this use of "FragmentTransaction"; it is deprecated.(°‡¯Ò8É’îÃ1
+U
+java:S1874+"8Remove this use of "beginTransaction"; it is deprecated.(°‡¯Ò8É’îÃ1
+L
+java:S1874,"/Remove this use of "replace"; it is deprecated.(² ‰ô8É’îÃ1
+K
+java:S1874-".Remove this use of "commit"; it is deprecated.(×“ŞÅ8É’îÃ1
+l
+java:S18746"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ8Ê’îÃ1
+`
+java:S18747">Remove this use of "getBackStackEntryCount"; it is deprecated.(İ”Ç¥øÿÿÿÿ8Ê’îÃ1
+W
+java:S1874="5Remove this use of "onBackPressed"; it is deprecated.(‘Ñàÿÿÿÿÿ8Ë’îÃ1
+V
+java:S1874@"4Remove this use of "popBackStack"; it is deprecated.(Çõ÷øÿÿÿÿ8Ë’îÃ1
